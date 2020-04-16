@@ -20,7 +20,7 @@ import android.view.View;
 
 public class BrushDrawingView extends View {
 
-    private float brushSize = 5;
+    private float brushSize = 40;
     private float brushEraserSize = 100;
 
     private Path drawPath;
